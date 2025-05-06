@@ -14,3 +14,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+##### tasklist
+sekarang berikut ini adalah tasklist
+- [x] List sytax is required
+- [x] This item is complete
+- [ ] This item is not complete
